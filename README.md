@@ -6,6 +6,8 @@
 
 ## List
 
+---
+
 In [1]:
 ``` subjects = ['History', 'Math', 'Physics', 'CS'] ```
 
@@ -16,21 +18,18 @@ In [2]:``` print(subjects)
 
 In [3]:```
 print(len(subjects))
-#Prints number of elements in list
-```
+#Prints number of elements in list```
 
 4
 
 In [4]:```
 print(subjects[0])
-#Prints the 1st element (History)
-```
+#Prints the 1st element (History)```
 History
 
-In [5]:
-```print(subjects[-1])
-#Prints the last element (History)
-```
+In [5]:```
+print(subjects[-1])
+#Prints the last element (History)```
 CS
 
 In [6]:
